@@ -1,34 +1,15 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
 
-First, run the development server:
+##About
+Actually, this is a template available on https://w3layouts.com/template/action-coming-soon-web-element/ which was created using HTML,CSS and some jquery for the timer component. As developers are more into using latest technologies such as React and Vue these days, I have created this template into a complete React webapp. It uses [Next.js](https://nextjs.org/) which is a framework based on Reactjs(https://reactjs.org/).
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+##Some Noticeable changes made in this template compared to the original one
+1.Completely removed vanilla javascript and jquery to make use of React.
+2.Font Awesome files have been removed and been used as a dependency especially made for react.
+3.There may be very little styling change as not everything works as expected in react.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+##Important points(Please read this before taking any action regarding this project)
+1.This is completely open source from my side.
+2.This template is taken from https://w3layouts.com/ and downloaded for free from there. As this was downloaded for free, I have not removed the backlink and it can be found below in the Footer component. Use this template with the backlink as this is free and licensed.
+3. You are free to propose changes and point out issues if you find one. Please do so as this will also help me learn the best practices.
