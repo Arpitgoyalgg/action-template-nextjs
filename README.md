@@ -13,3 +13,7 @@ Actually, this is a template available on https://w3layouts.com/template/action-
 * This is completely open source from my side.
 * This template is taken from https://w3layouts.com/ and downloaded for free from there. As this was downloaded for free, I have not removed the backlink and it can be found below in the Footer component. Use this template with the backlink as this is free and licensed.
 * You are free to propose changes and point out issues if you find one. Please do so as this will also help me learn the best practices.
+## How to run this project
+* Clone this repository and ```cd``` into the working directory.
+* Run ```npm install``` in the terminal or if you are using ```yarn``` then use the appropriate command available.
+* Run ```npm run dev``` on the terminal and enjoy!
