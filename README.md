@@ -16,4 +16,4 @@ Actually, this is a template available on https://w3layouts.com/template/action-
 ## How to run this project
 * Clone this repository and ```cd``` into the working directory.
 * Run ```npm install``` in the terminal or if you are using ```yarn``` then use the appropriate command available.
-* Run ```npm run dev``` on the terminal and enjoy!
+* Run ```npm run dev``` in the terminal and enjoy!
