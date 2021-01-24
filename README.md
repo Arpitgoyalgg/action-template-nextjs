@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-
+Hosted on https://action-template-nextjs.arpitgoyalgg.vercel.app/
 ## About
 Actually, this is a template available on https://w3layouts.com/template/action-coming-soon-web-element/ which was created using HTML,CSS and some jquery for the timer component. As developers are more into using latest technologies such as React and Vue these days, I have created this template into a complete React webapp. It uses [Next.js](https://nextjs.org/) which is a framework based on Reactjs(https://reactjs.org/).
 
